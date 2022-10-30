@@ -1,2 +1,0 @@
-datastructure/set/MySet.java
- datastructure.set.MySet
